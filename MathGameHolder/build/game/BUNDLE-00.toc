@@ -1,0 +1,1 @@
+([('game', '/Users/lukegentry/MathGame/dist/game', 'EXECUTABLE')],)
